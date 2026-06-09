@@ -1,2 +1,3 @@
 mobile/mobile/settings.py
 mobile/.gitignore
+mobile/db.sqlite3
